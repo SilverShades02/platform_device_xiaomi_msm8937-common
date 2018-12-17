@@ -141,10 +141,6 @@ persist.rild.nitz_short_ons_1="" \
 persist.rild.nitz_short_ons_2="" \
 persist.rild.nitz_short_ons_3=""
 
-# Optimize
-PRODUCT_PROPERTY_OVERRIDES += \
-sys.use_fifo_ui=1
-
 # Radio
 PRODUCT_PROPERTY_OVERRIDES += \
 DEVICE_PROVISIONED=1 \
